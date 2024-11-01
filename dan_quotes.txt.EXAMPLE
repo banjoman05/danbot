@@ -1,0 +1,7 @@
+# Array of nonsensical one-liners from Dan
+# One per line.
+dan_quotes=(
+    "If Dan had a nickel for every time he made sense, he’d have three nickels."
+    "Dan ate too many cookies."
+)
+
